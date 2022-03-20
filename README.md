@@ -1,5 +1,5 @@
 # About 
-This is a mod I've created for counter-strike game since 2017. Use C# with AmxModx studio
+This is a mod I've created for counter-strike since 2017. Use C# with AmxModx studio
 +Library of Dias's plugins.
 I'm a big fan of counterstrike. Thank you.
 
